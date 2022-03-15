@@ -1,4 +1,11 @@
 # UCI_incomePredictor
- income classifier based on UCI income dataset
+ Building a classification model for predicting the income using the Adult Census Income Dataset on UCI.
  
- [app link](https://uciincomepredictor.herokuapp.com/)
+ 
+ ## Overview:
+ In this notebook, we are going to predict whether a person's income is above 50k or below 50k using various features like age, education, and occupation.
+ 
+ ## WebApp:
+ [app link](https://uciincomepredictor.herokuapp.com/) :  https://uciincomepredictor.herokuapp.com/
+ 
+ 
